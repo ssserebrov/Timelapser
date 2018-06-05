@@ -8,5 +8,9 @@
   },
   "devDependencies": {
     "@types/node": "^6.0.87"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "node-dir": "^0.1.17"
   }
 }
